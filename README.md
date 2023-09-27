@@ -6,6 +6,8 @@ This project is aimed to create parallax effects for images and a nice spotlight
 
 In the future, I plan to use the skills learnt here to incorporate them into front-end projects to give them an extra pop when users visit the site.
 
+There is a screenshot added below of the project. A link to the deployed site can be found [here](https://kyleochata.github.io/CSS-animations/).
+
 Slideshow Screenshot:
 
 ![slideshow image](./assets/images/slideshow.png)
@@ -25,3 +27,5 @@ This repository is allowed for use in a learning environment to evaluate and ana
 Credits are given to the following:
 
 - [Hyperplexed](https://www.youtube.com/watch?v=PkADl0HubMY&t=81s&ab_channel=Hyperplexed) for their youtube tutorial for the parallax effect and mouse follow icon.
+
+- [Usplash](https://unsplash.com/) for providing stock images for the slideshow
