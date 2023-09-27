@@ -26,6 +26,7 @@ const handleOnMove = e => {
     transform: `translate(${nextPercentage}%, -50%)`
   }, { duration: 1200, fill: "forwards" });
 
+  //parallax for images => uses the same logic for the slider to update objectPosition of the image to give a scrolling effect within the image
   for (const image of track.getElementsByClassName("image")) {
     image.animate({
       objectPosition: `${100 + nextPercentage}% center`
